@@ -811,6 +811,11 @@ body.dark .aside .nav li a{
     margin-top: 40px;
   }
 }
+@media (max-width:768px){
+  .ml-sm-0 {
+    margin-left: 0px;
+  }
+}
 @media (max-width:740px){
   .about .about-content .education{
     flex: 0 0 100%;
